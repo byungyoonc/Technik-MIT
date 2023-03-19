@@ -1,0 +1,6 @@
+[submodule "Technik-MIT/MX_V2"]
+	path = Technik-MIT/MX_V2
+	url = https://github.com/ai03-2725/MX_V2
+[submodule "Technik-MIT/random-keyboard-parts.pretty"]
+	path = Technik-MIT/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
