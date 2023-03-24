@@ -1,5 +1,7 @@
 (fp_lib_table
   (version 7)
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/random-keyboard-parts.pretty")(options "")(descr ""))
-  (lib (name "kicad-footprints")(type "KiCad")(uri "${KIPRJMOD}/kbd/kicad-footprints")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "molex-216990_gct-usb45xx_hro-type-c-31-m-13x")(type "KiCad")(uri "${KIPRJMOD}/goldfish/cad/molex-216990_gct-usb45xx_hro-type-c-31-m-13x.pretty")(options "")(descr ""))
+  (lib (name "Technik-MIT")(type "KiCad")(uri "${KIPRJMOD}/Technik-MIT.pretty")(options "")(descr ""))
 )

@@ -7,3 +7,6 @@
 [submodule "Technik-MIT/kbd"]
 	path = Technik-MIT/kbd
 	url = https://github.com/foostan/kbd
+[submodule "Technik-MIT/goldfish"]
+	path = Technik-MIT/goldfish
+	url = https://github.com/staticintlucas/goldfish
