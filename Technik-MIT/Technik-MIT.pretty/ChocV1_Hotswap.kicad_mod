@@ -219,7 +219,7 @@
     (stroke (width 0.15) (type solid)) (layer "Dwgs.User") (tstamp 2c7495f7-f06c-4e30-8e5a-c0a5b8fea9e5))
   (pad "" np_thru_hole circle (at -5.5 0 90) (size 1.9 1.9) (drill 1.9) (layers "*.Cu") (tstamp c19f093c-d6a9-487b-aa41-89633039099d))
   (pad "" np_thru_hole circle (at -5 3.7 90) (size 3 3) (drill 3) (layers "*.Cu" "*.Mask") (tstamp 7c03aab1-3f6a-4e13-99d2-03f7eb1b491b))
-  (pad "" np_thru_hole circle (at 0 0 90) (size 5 5) (drill 5) (layers "*.Cu") (tstamp 1cebe5de-34fc-4924-881e-b59eaec806b9))
+  (pad "" np_thru_hole circle (at 0 0 90) (size 3.4 3.4) (drill 3.4) (layers "F&B.Cu") (tstamp 1cebe5de-34fc-4924-881e-b59eaec806b9))
   (pad "" np_thru_hole circle (at 0 5.9 90) (size 3 3) (drill 3) (layers "*.Cu" "*.Mask") (tstamp 72a35f89-2636-40cd-8e40-8760f2214561))
   (pad "" np_thru_hole circle (at 5.5 0 90) (size 1.9 1.9) (drill 1.9) (layers "*.Cu") (tstamp 68655f10-f66e-4862-afaf-2fcadbdf9e63))
   (pad "1" smd rect (at -8.3 3.7 180) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp af1a4c7d-ed02-45b1-afe2-757ead48a9fd))
